@@ -1,0 +1,6 @@
+exifread
+aiogram
+python-dotenv
+pytz
+fake-useragent
+geopy
